@@ -1,4 +1,5 @@
 Simple Python Calculator
+
 This is a clean and functional console-based calculator built with Python. It demonstrates my understanding of basic programming logic, user input handling, and conditional statements.
 
 🇩🇪 Projektbeschreibung
